@@ -140,10 +140,10 @@
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
         }
 
-        .btn-outline {
+       .btn-outline {
             background: transparent;
-            border: 2px solid var(--white);
-            color: var(--white);
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
         }
 
         .btn-outline:hover {
@@ -851,6 +851,7 @@
                 grid-template-columns: 1fr;
             }
         }
+
 
 
 
